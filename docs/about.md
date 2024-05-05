@@ -21,7 +21,7 @@ Since school, I've learned much more through professional courses, training, and
 
 # Experience
 
-I spend about half of my professional time in operations getting things done ("The buck stops here" - President Truman -) and the other half working on research and projects that I believe will improve the organization's efficiency. This has involved a healthy mix of incident response management, cyber threat intelligence, penetration testing, military and logistics planning, data science/engineering, and machine learning.
+I spend about half of my professional time in operations getting things done ("The buck stops here" type) and the other half working on research and projects that I believe will improve the organization's efficiency. This has involved a healthy mix of incident response management, cyber threat intelligence, penetration testing, military and logistics planning, data science/engineering, and machine learning.
 
 # Hobbies and My Free Time
 
