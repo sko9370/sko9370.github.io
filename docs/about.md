@@ -17,7 +17,7 @@ I have a Bachelor's degree in Computer Science and have coded extensively in Pyt
 Since school, I've learned much more through professional courses, training, and hands-on experience. As Mark Twain said something along the lines of "Don't let schooling interfere with your education." I won't go through everything here, but the major things I've taken away from my early career are:
 - If there are smart people in the room with you, listen; if you are the smartest person in the room, share your knowledge. *Train and be trained, improve the organization*
 - Bashing your head into the keyboard to figure something out is admirable, but you deserve to bash your head again if you don't consolidate your knowledge in a usable format so that you or others don't make the same mistake. *Develop a resilient knowledge management process*
-- People are more easily inspired and persuaded when the message is simple. Workflows are easier to execute or modify if it is simple. Communication happens faster with less errors when emails are simple. *Make it simple*
+- People are more easily inspired and persuaded when the message is simple. Workflows are easier to execute or modify if they are simple. Communication happens faster with less errors when emails are simple. *Make it simple*
 
 # Experience
 
