@@ -30,9 +30,13 @@ github_username: sko9370
 show_excerpts: True
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima@3cdd14d
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+minima:
+  skin: dark
 
 host: 0.0.0.0
 

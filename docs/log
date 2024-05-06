@@ -1,0 +1,11 @@
+Configuration file: /home/sko9370/sko9370.github.io/docs/_config.yml
+            Source: /home/sko9370/sko9370.github.io/docs
+       Destination: /home/sko9370/sko9370.github.io/docs/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme jekyll/minima
+       Jekyll Feed: Generating feed for posts
+jekyll 3.9.5 | Error:  File to import not found or unreadable: minima.
+Load paths:
+  /var/lib/gems/3.0.0/gems/jekyll-theme-primer-0.6.0/_sass
+  /tmp/jekyll-remote-theme-20240506-883959-ejr94p/_sass on line 1
