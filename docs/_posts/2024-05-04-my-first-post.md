@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my website!"
 date:   2024-05-04 23:33:33 +0000
-categories: jekyll update
+categories: project
 ---
 
 I've been meaning to create my own website at some point and finally got a weekend to work on it, now that my semester is over. It is so easy nowadays to do it for free using GitHub Pages and Static Site Generators.
